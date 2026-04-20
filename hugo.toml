@@ -1,4 +1,5 @@
 baseURL = 'https://koedagashi.io/'
 locale = 'ja-jp'
-title = 'koeda hugo project'
-theme = 'ananke'
+title = 'Koeda Hugo Project'
+theme = 'PaperMod'
+
