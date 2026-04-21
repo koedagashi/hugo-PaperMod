@@ -1,4 +1,4 @@
-baseURL = 'https://koedagashi.io/'
+baseURL = 'https://koeda.github.io/quickstart/'
 locale = 'ja-jp'
 title = 'Koeda Hugo Project'
 theme = 'PaperMod'
